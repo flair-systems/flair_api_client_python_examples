@@ -5,4 +5,5 @@ lib/
 pip-selfcheck.json
 share/
 .ipynb_checkpoints/
-
+pyvenv.cfg
+src/
