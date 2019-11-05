@@ -17,4 +17,4 @@ jupyter notebook
 
 ## License
 
-Copyright 3016 Standard Euler. Licenced under the Apache Public License v2. See LICENSE for more info.
+Copyright 2016 Standard Euler. Licenced under the Apache Public License v2. See LICENSE for more info.
