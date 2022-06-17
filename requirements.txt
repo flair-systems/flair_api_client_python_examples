@@ -19,7 +19,7 @@ mistune==0.7.3
 nbconvert==4.2.0
 nbformat==4.1.0
 notebook==4.2.3
-numpy==1.11.2
+numpy==1.21.0
 pexpect==4.2.1
 pickleshare==0.7.4
 prompt-toolkit==1.0.8
